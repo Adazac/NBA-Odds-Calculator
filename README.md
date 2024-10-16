@@ -1,5 +1,5 @@
 # NBA Player Data Scraper & Odds Calculator
-This project focuses on scraping detailed performance data for all NBA players and using it to calculate over/under betting odds for every game in a season. The data was collected from basketball-reference.com, cleaned, and transformed for further analysis.
+This project, made for a sportsbetting company, focuses on scraping detailed performance data for all NBA players and using it to calculate over/under betting odds for every game in a season. The data was collected from basketball-reference.com, cleaned, and transformed for further analysis.
 
 ## Project Overview:
 - **Data Scraping:** Leveraged web scraping techniques to automatically extract up-to-date player statistics from basketball-reference.com for all NBA players for their last 3 seasons.
