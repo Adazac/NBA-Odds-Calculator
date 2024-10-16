@@ -14,7 +14,7 @@ Using historical data, I projected future performance based on home/away games, 
 
 ## Highlights:
 - Scraped gamelogs of players for the past 3 seasons.
-- Focused on key stats that influence betting outcomes.
+- Focused on key stats that influence the outcome.
 - Calculated expected values for key player metrics.
-- Created odds for every player in every match for an entire season - over 50 000 records.
+- Created odds for every player in every match for an entire season - **over 50 000 records**.
 - This project demonstrates skills in web scraping, data manipulation, and probability calculations for betting scenarios.
