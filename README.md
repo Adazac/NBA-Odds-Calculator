@@ -9,7 +9,7 @@ This project focuses on scraping detailed performance data for all NBA players a
     - Blocks
     - Turnovers
     - 3-pointers<br>
-Using historical data, I modeled projected future performance based on home/away games, minutes played, quality of opposing team and an average game of the player.
+Using historical data, I projected future performance based on home/away games, minutes played, quality of opposing team and an average game of the player.
 - **Odds Calculation for Over/Under Bets:** Based on the expected values, I calculated betting odds for various over/under markets. These odds were tailored to each player's expected performance for individual games.
 
 ## Highlights:
